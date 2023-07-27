@@ -8,10 +8,8 @@
  <strong><a href="https://docs.google.com/document/d/1stcvqGYWDplD6eUdKk-LS_OkbApIlOyDXrQJ3rbIBoc/edit">الجزء الاول</a></strong></p>
   
   
-  
-- قم بعمل fork للـ repository
-- قم بعمل clone للـ repository
-- افتح ملف main.py
+   
+- قم بانشاء ملف main.py 
 - قم بانشاء class باسم Person لديه:
 
 <div>
